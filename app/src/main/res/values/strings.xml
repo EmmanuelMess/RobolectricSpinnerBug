@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Robolectric Spinner in Menu Bug Report</string>
+    <string name="currency">Currency</string>
+</resources>
